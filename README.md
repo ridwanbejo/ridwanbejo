@@ -11,7 +11,6 @@ Here are some ideas to get you started:
   - My favorite programming language: `Python`, `HCL`, `Go`, `Bash`, `Javascript` and `PHP`
   - I'm working as Cloud Infrastructure Engineer now
   - My hobby: software engineering, SRE practice, DevOps implementation, photography
-  - I can speak three languages: Indonesian, English, Sundanese. I'm also able to read Korean and Arabic alphabet.
 
 More about me -> [https://ridwanbejo.github.io/](https://ridwanbejo.github.io/)
 
