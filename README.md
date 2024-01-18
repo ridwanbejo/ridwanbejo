@@ -12,7 +12,11 @@ Here are some ideas to get you started:
   - My main programming language is `Python`
   - My favorite programming language is `Python`, `HCL`, `Go`, `Bash`, `Javascript` and `PHP`
   - I'm working as Cloud Infrastructure Engineer
-  - My hobby is software engineering, learn about SRE practice and DevOps implementation
+  - My hobby: 
+    - software engineering
+    - SRE practice
+    - DevOps implementation
+    - photography
   - I can speak three languages: Indonesian, English, Sundanese
     - I'm also able to read Korean and Arabic alphabet.
 
